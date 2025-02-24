@@ -2,6 +2,11 @@
 
 Welcome to **Sliding Squares** - an exciting 2-player game that challenges you and a friend to slide your way to victory while avoiding obstacles. With simple controls and engaging gameplay, it’s not only fun but also an educational tool that promotes teamwork and strategic thinking.
 
+![Menu](screenshots/menu.png)
+![s1](screenshots/s1.png)
+![s2](screenshots/s2.png)
+![s3](screenshots/s3.png)
+
 ## Features
 
 - **Multi-Level Challenges**: Progress through various levels, each with unique obstacle layouts.
@@ -38,7 +43,7 @@ Welcome to **Sliding Squares** - an exciting 2-player game that challenges you a
 ### Steps
 1. Clone this repository:
    ```bash
-   git clone [your-repository-url]
+   git clone https://github.com/jorgexe/Sliding_Squares.git
    ```
 2. Install dependencies:
    ```bash
